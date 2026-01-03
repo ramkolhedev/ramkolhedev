@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Ram Kolhe 👋</h1>
+<h1 align="center">Hi there, I'm Ram Kolhe </h1>
 <h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
 
 ---

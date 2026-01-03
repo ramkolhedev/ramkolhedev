@@ -95,8 +95,4 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 Let’s build something beautiful together 🚀  
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek6164&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>

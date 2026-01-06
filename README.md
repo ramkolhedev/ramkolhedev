@@ -82,7 +82,7 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
   <a href="https://www.linkedin.com/in/ramkolhe/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ramkolhe.vercel.app/">
+  <a href="https://ram-kolhe-portfolio-1.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
